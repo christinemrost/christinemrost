@@ -1,10 +1,9 @@
 ---
 title: "Christine M. Rost"
 image: christine.png
-about:  
+about:
   template: trestles
   image-shape: rounded
-  image-width: 15em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/christine-rost/

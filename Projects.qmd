@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-  links: 
+links: 
     - text: Debugging 
       href: https://github.com/Data-Sci-Intro-2023/Week-2-Debugging-christinemrost
     - text: API's and Iteration
