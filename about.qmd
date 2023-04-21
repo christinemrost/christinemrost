@@ -2,8 +2,22 @@
 title: "About"
 ---
 
-About this site
+Interests
 
-```{r}
-1 + 1
-```
+Carbon Management \| Interdisciplinary Science Communication \| Sustainable Food Systems
+
+I am a second-year professional science master's candidate studying sustainable food systems and carbon management at Colorado State University. I aspire to help agriculture producers be the problem-solvers in the fight against climate change and promote duality in land use and management. I am a current graduate research assistant conducting literature reviews and constructing a database using Tier 3 IPCC greenhouse gas inventory methodology.
+
+------------------------------------------------------------------------
+
+Skills
+
+Greenhouse Gas Inventory \| R Programming Language \| DayCent \| Microsoft Excel
+
+------------------------------------------------------------------------
+
+Education
+
+Professional Science Master's Ecosystem Science and Sustainability, focus Sustainable Food Systems and Carbon Management \| Colorado State University 2022-2023
+
+Bachelor of Science Environmental Science, emphasis in Agriculture and Natural Resources Minor in Sociology \| Doane University 2017-2021

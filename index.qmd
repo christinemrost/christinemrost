@@ -1,11 +1,15 @@
 ---
-title: "christinemrost"
+title: "Christine M. Rost"
+image: christine.png
+about:  
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/christine-rost/
+    - text: GitHub
+      href: https://github.com/christinemrost
+    - text: Email
+      href: mailto:cmrost@colostate.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

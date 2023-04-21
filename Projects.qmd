@@ -1,0 +1,12 @@
+---
+title: "Projects"
+  links: 
+    - text: Debugging 
+      href: https://github.com/Data-Sci-Intro-2023/Week-2-Debugging-christinemrost
+    - text: API's and Iteration
+      href: https://github.com/Data-Sci-Intro-2023/Week-3-Apis-and-Iteration -christinemrost 
+    - text: Geospacial
+      href: https://github.com/Data-Sci-Intro-2023/Week-4-Geospatial-christinemrost 
+    - text: Modelling
+      href: https://github.com/Data-Sci-Intro-2023/Week-5-Modelling-christinemrost 
+---
